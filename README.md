@@ -52,7 +52,7 @@
 ### 🔗 Connect With Me
 
 <p>
-  <a href="mailto:hassammuhammad10.@gamil.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hassammuhammad10.@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hassam-khalid-09aa29158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
