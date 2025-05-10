@@ -68,22 +68,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MoHassamKhalid&theme=react-dark" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/MoHassamKhalid/MoHassamKhalid/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🏆 GitHub Achievements
 
 <p align="center">
