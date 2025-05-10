@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hassam 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Hassam 👋</h1>
 
 <p align="center">
   <em>AI Engineer | Full Stack Developer | Mobile & Game Dev Enthusiast</em>
@@ -57,3 +57,43 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoHassamKhalid&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MoHassamKhalid&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MoHassamKhalid&theme=react-dark" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/MoHassamKhalid/MoHassamKhalid/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MoHassamKhalid&theme=radical" />
+</p>
+
+---
+
+### 🌟 GitHub Stars
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/MoHassamKhalid?style=social" />
+</p>
