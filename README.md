@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Muhammad Hassam 👋</h1>
 
 <p align="center">
-  <em>AI Engineer | Full Stack Developer | Mobile & Game Dev Enthusiast</em>
+  <em>AI Engineer | Full Stack Developer | Mobile & Game Dev Enthusiast | Team Lead</em>
 </p>
 
 ---
